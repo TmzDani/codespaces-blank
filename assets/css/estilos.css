@@ -15,10 +15,11 @@ legend{
      font-style:unset;
 }
 .hp {
-    background-color: rgb(144, 142, 214);
+    background-color: rgb(119, 118, 151);
     margin: auto;
     width: 50%;
     padding: 10px;
     border: 2px solid black;
     text-align: center;
+    font-style: italic;
 }
